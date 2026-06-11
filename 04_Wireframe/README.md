@@ -21,7 +21,7 @@ The design aims to provide customers with complete product information, support 
 
 ## Wireframe Preview
 
-![WireFrame M-05](WireFrame M-05.drawio.png)
+![WireFrame M-05](04_Wireframe/WireFrame M-05.drawio.png)
 
 ## Related Requirements
 
